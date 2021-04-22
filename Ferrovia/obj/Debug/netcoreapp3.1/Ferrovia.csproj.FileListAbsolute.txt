@@ -1,0 +1,12 @@
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.exe
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.deps.json
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.runtimeconfig.json
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.runtimeconfig.dev.json
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.dll
+C:\Users\paulo.silva\source\repos\Ferrovia\bin\Debug\netcoreapp3.1\Ferrovia.pdb
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.AssemblyInfo.cs
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.dll
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.pdb
+C:\Users\paulo.silva\source\repos\Ferrovia\obj\Debug\netcoreapp3.1\Ferrovia.genruntimeconfig.cache
